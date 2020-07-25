@@ -3,10 +3,10 @@
 <img src="https://media.giphy.com/media/fUqYN5JP8wcne0yaOd/giphy.gif" width="500" height="auto" />
 </center>
 
-<center>
+<p align='center'>
 <img alt="License" src="https://img.shields.io/badge/made%20by-tallesfelix-brightgreen">
 <img alt="License" src="https://img.shields.io/github/license/tallesfelix/directions-with-osm-networkx">
-</center>
+</p>
 
 This is a simple example that deals with interactive map **directions between two geolocated points**, using data retrieved from Open Street Map and Networkx graphs! 
 
