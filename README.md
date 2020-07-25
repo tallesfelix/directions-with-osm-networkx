@@ -1,7 +1,7 @@
 # Interactive directions map with OSM and networkx
-<center>
+<p align='center'>
 <img src="https://media.giphy.com/media/fUqYN5JP8wcne0yaOd/giphy.gif" width="500" height="auto" />
-</center>
+</p>
 
 <p align='center'>
 <img alt="License" src="https://img.shields.io/badge/made%20by-tallesfelix-brightgreen">
