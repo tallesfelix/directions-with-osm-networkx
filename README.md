@@ -11,7 +11,7 @@
 This is a simple example that deals with interactive map **directions between two geolocated points**, using data retrieved from Open Street Map and Networkx graphs! 
 
 <p align='center'>
-	<a href="https://medium.com/@tallesfelixg95/interative-map-with-osm-directions-and-networkx-582c4f3435bc">MEDIUM POST</<
+	<a href="https://medium.com/@tallesfelixg95/interative-map-with-osm-directions-and-networkx-582c4f3435bc">MEDIUM POST</a>
 </p>
 
 # Getting started
